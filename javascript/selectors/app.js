@@ -1,0 +1,6 @@
+// getelementbyid:
+//getelementbytagname
+//getelelementbyclass name
+
+
+
